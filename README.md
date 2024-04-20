@@ -29,5 +29,5 @@ Random Forest and AdaBoost emerged as the top-performing ML models, achieving 93
 Among DL models, ANN achieved 89% accuracy.<br>
 *Faker-Kaggle Generated Dataset:*<br>
 Random Forest maintained strong performance, achieving 87% accuracy.<br>
-Among DL models, CNN achieved 87% accuracy.<br>
+Among DL models, CNN achieved 87% accuracy.<br><br>
 --Across all datasets, AdaBoost achieved the highest accuracy of 97% in the Kaggle Hate Speech and Offensive Content Dataset. Random Forest and AdaBoost demonstrated robust generalization in synthetic datasets, achieving accuracies of 93% and 89% respectively. CNN and LSTM models performed competitively across datasets, with accuracies ranging from 88% to 93%.
